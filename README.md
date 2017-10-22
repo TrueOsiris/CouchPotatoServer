@@ -1,6 +1,9 @@
 CouchPotato
 =====
 
+Osiris' Remark:
+Only differs from the masterbranch in 1 thing: I disabled the freespace check in runner.py
+
 [![Join the chat at https://gitter.im/CouchPotato/CouchPotatoServer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CouchPotato/CouchPotatoServer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/CouchPotato/CouchPotatoServer.svg?branch=master)](https://travis-ci.org/CouchPotato/CouchPotatoServer)
 [![Coverage Status](https://coveralls.io/repos/CouchPotato/CouchPotatoServer/badge.svg?branch=master&service=github)](https://coveralls.io/github/CouchPotato/CouchPotatoServer?branch=master)
